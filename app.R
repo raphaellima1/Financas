@@ -1,5 +1,5 @@
 #library(shinydashboardPlus)
-  #library(shiny)
+  library(shiny)
   library(shinyjs)
   library(devtools)
   #library(shinymanager)
